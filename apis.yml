@@ -7,10 +7,10 @@ position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Web Engine
-  - Rust
   - Browser
   - Linux Foundation
+  - Rust
+  - Web Engine
 created: '2026-03-16'
 modified: '2026-03-16'
 url: >-
@@ -23,10 +23,10 @@ apis:
       Programmatic access to Servo web rendering engine APIs, embedding interfaces, and browser component tools.
     humanURL: https://servo.org/documentation/
     tags:
-      - Web Engine
-      - Rust
       - Browser
       - Linux Foundation
+      - Rust
+      - Web Engine
     properties:
       - type: Documentation
         url: https://servo.org/documentation/
