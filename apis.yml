@@ -23,10 +23,10 @@ apis:
       Programmatic access to Servo web rendering engine APIs, embedding interfaces, and browser component tools.
     humanURL: https://servo.org/documentation/
     tags:
-  - Web Engine
-  - Rust
-  - Browser
-  - Linux Foundation
+      - Web Engine
+      - Rust
+      - Browser
+      - Linux Foundation
     properties:
       - type: Documentation
         url: https://servo.org/documentation/
