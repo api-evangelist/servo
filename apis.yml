@@ -31,6 +31,8 @@ apis:
       - type: Documentation
         url: https://servo.org/documentation/
 common:
+  - type: DomainSecurity
+    url: security/servo-domain-security.yml
   - type: Documentation
     name: Servo Documentation
     description: Official documentation for Servo.
@@ -39,6 +41,8 @@ common:
     name: Servo GitHub
     description: Source code and repositories for Servo.
     url: https://github.com/servo
+  - type: Blog
+    url: https://servo.org/blog/feed.xml
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
