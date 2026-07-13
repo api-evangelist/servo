@@ -1,0 +1,21 @@
+{
+  "repo": "servo",
+  "feeds": [
+    {
+      "source": "https://servo.org/blog/feed.xml",
+      "feed_url": "https://servo.org/blog/feed.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://github.com/servo",
+      "feed_url": "https://github.com/servo",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 11
+}
