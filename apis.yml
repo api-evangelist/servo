@@ -3,9 +3,21 @@ name: Servo
 description: >-
   Servo is a Linux Foundation Europe project providing an open source, high-performance web rendering engine written in Rust. It aims to be a lightweight, embeddable alternative for web technologies in applications, leveraging Rust's safety guarantees for secure and concurrent web content rendering.
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/servo.png
 tags:
   - Browser
   - Linux Foundation
