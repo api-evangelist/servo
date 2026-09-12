@@ -54,6 +54,8 @@ apis:
       - type: Documentation
         url: https://servo.org/documentation/
 common:
+  - type: Website
+    url: https://www.servo.org/
   - type: DomainSecurity
     url: security/servo-domain-security.yml
   - type: Documentation
